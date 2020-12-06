@@ -2,10 +2,10 @@
 
 ## I'm a Student/Programmer
 
-- 🔭 I am currently making one script which automatically joins my classes
+- 🔭 I am currently making a script which automatically joins my classes
 - 🌱 I’m currently learning about making Python Modern GUIs 
 - 🥅 2021 Goals: Learn C/C++ , Android Development
-- ⚡ Fun fact: I love to hear music and to go outside anywhere
+- ⚡ Fun fact: I love to hear music and to code
 
 <br />
 
