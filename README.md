@@ -11,10 +11,19 @@
 
 ### Languages and Tools I Use:
 
+<img align="left" width="24px" src="https://img.icons8.com/color/48/000000/python.png" href="https://code.visualstudio.com/" />
+<img align="left" width="24px" src="https://img.icons8.com/color/48/000000/html-5.png" />
+<img align="left" width="24px" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" />
+<img align="left" width="24px" src="https://img.icons8.com/fluent/48/000000/sublime-text.png" />
+<img align="left" width="24px" src="https://img.icons8.com/color/48/000000/docker.png" />
 <img align="left" width="24px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
 <img align="left" width="24px" src="https://img.icons8.com/color/48/000000/git.png" />
+<img align="left" width="24px" src="https://kiteco.gallerycdn.vsassets.io/extensions/kiteco/kite/0.134.0/1604357348014/Microsoft.VisualStudio.Services.Icons.Default" />
+<img align="left" width="24px" src="https://img.icons8.com/color/48/000000/pycharm.png" />
+<img align="left" width="24px" src="https://img.icons8.com/windows/32/000000/rainmeter.png" />
 <img align="left" width="24px" src="https://img.icons8.com/material-outlined/384/000000/github.png" />
 <img align="left" width="24px" src="hhttps://img.icons8.com/fluent/384/000000/console.png" />
+
 <br />
 
 ###  Connect With Me:
