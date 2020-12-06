@@ -11,7 +11,7 @@
 
 ### Languages and Tools I Use:
 
-<img align="left" width="24px" src="https://img.icons8.com/color/48/000000/python.png" href="https://code.visualstudio.com/" />
+<img align="left" width="24px" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" width="24px" src="https://img.icons8.com/color/48/000000/html-5.png" />
 <img align="left" width="24px" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" />
 <img align="left" width="24px" src="https://img.icons8.com/fluent/48/000000/sublime-text.png" />
@@ -46,3 +46,4 @@
 [Stack Overflow Profile]: https://stackoverflow.com/users/14588234/harish795
 [Git Hub Profile]: https://github.com/harish795
 [Dev.to Profile]: https://dev.to/harish795
+[Visual Studio Code]: https://code.visualstudio.com/ 
