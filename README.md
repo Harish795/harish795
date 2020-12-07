@@ -9,6 +9,8 @@
 
 <br />
 
+<img align="right" alt="harish795's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=harish795&show_icons=true&hide_border=true&theme=algolia" />
+
 ### Languages and Tools I Use:
 
 <img align="left" width="24px" src="https://img.icons8.com/color/48/000000/python.png"/>
@@ -36,12 +38,6 @@
 <br />
 
 <br>
-<details>
-  <summary>:zap: My GitHub Stats</summary>
-
-  <img align="left" alt="harish795's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=harish795&show_icons=true&hide_border=true&theme=algolia" />
-
-</details>
 
 ###  Badges I Got 
 <img align="left" width="48px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" />
@@ -50,3 +46,7 @@
 [Git Hub Profile]: https://github.com/harish795
 [Dev.to Profile]: https://dev.to/harish795
 [Visual Studio Code]: https://code.visualstudio.com/ 
+
+
+
+  
