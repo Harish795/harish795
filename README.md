@@ -28,7 +28,7 @@
 
 <br />
 
-###  Connect With Me:
+### Connect With Me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][Stack Overflow Profile]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][Git Hub Profile]
