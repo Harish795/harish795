@@ -44,8 +44,7 @@
 </details>
 
 ###  Badges I Got 
-<img align="left" width="48px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png
-" />
+<img align="left" width="48px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" />
 
 [Stack Overflow Profile]: https://stackoverflow.com/users/14588234/harish795
 [Git Hub Profile]: https://github.com/harish795
