@@ -9,7 +9,7 @@
 
 <br />
 
-<img align="right" alt="harish795's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=harish795&show_icons=true&hide_border=true&theme=algolia" />
+
 
 ### Languages and Tools I Use:
 
@@ -37,7 +37,7 @@
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][Git Hub Profile]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][Dev.to Profile]
 <br />
-
+<img align="right" alt="harish795's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=harish795&show_icons=true&hide_border=true&theme=algolia" />
 <br />
 
 ###  Badges I Got 
