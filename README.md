@@ -28,13 +28,14 @@
 
 <br />
 
+
+<br />
+
 ### Connect With Me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][Stack Overflow Profile]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][Git Hub Profile]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][Dev.to Profile]
-
-<br />
 <br />
 
 <br>
