@@ -38,7 +38,7 @@
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][Dev.to Profile]
 <br />
 
-<br>
+<br />
 
 ###  Badges I Got 
 <img align="left" width="48px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" />
@@ -47,6 +47,8 @@
 [Git Hub Profile]: https://github.com/harish795
 [Dev.to Profile]: https://dev.to/harish795
 [Visual Studio Code]: https://code.visualstudio.com/ 
+
+<br />
 
 
 
