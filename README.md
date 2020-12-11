@@ -7,7 +7,7 @@
 - 🔭 I am currently making a script which automatically joins my classes
 - 🌱 I’m currently learning about making Python Modern GUIs 
 - 🥅 2021 Goals: Learn C/C++ , Android Development
-- ⚡ Fun fact: I love to hear music and to code
+- ⚡ Fun fact: I love to play outdoor games
 
 <br />
 
