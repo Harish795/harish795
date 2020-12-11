@@ -11,7 +11,7 @@
 
 <br />
 
-<img align="right" alt="harish795's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=harish795&show_icons=true&hide_border=true&theme=algolia" 
+<img align="right" alt="harish795's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=harish795&show_icons=true&hide_border=true&theme=algolia"> 
 
 ### Languages and Tools I Use:
 
