@@ -2,14 +2,18 @@
 
 ## I'm a Student/Programmer
 
+<img align="right" width="200" height="140" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif"/>
+
 - 🔭 I am currently making a script which automatically joins my classes
 - 🌱 I’m currently learning about making Python Modern GUIs 
 - 🥅 2021 Goals: Learn C/C++ , Android Development
 - ⚡ Fun fact: I love to hear music and to code
 
 <br />
+<br>
+<img align="right" alt="harish795's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=harish795&show_icons=true&hide_border=true&theme=algolia" 
 
-<img align="right" alt="harish795's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=harish795&show_icons=true&hide_border=true&theme=algolia" />
+/>
 
 ### Languages and Tools I Use:
 
