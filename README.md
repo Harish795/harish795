@@ -4,6 +4,8 @@
 
 <img align="right" width="200" height="140" hspace="150" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif"/>
 
+I live in India and I like to develop software and build website as a hobby. I never followed any school education for developing software but, learned everything i know by watching Youtube tutorials and just lots of searchings.
+
 - 🔭 I am currently making a script which automatically joins my classes
 - 🌱 I’m currently learning about making Python Modern GUIs 
 - 🥅 2021 Goals: Learn C/C++ , Android Development
