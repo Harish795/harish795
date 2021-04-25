@@ -13,7 +13,7 @@ I like to develop software and build website as a hobby. I never followed my sch
 
 <br />
 
-<img align="right" alt="harish795's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=harish795&show_icons=true&hide_border=true&theme=algolia"> 
+<img align="right" alt="harish795r's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=harish795r&show_icons=true&hide_border=true&theme=algolia"> 
 
 ### Languages and Tools I Use:
 
@@ -52,7 +52,7 @@ I like to develop software and build website as a hobby. I never followed my sch
 <img align="left" width="48px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" />
 
 [Stack Overflow Profile]: https://stackoverflow.com/users/14588234/harish795
-[Git Hub Profile]: https://github.com/harish795
+[Git Hub Profile]: https://github.com/harish795r
 [harish795's DEV Profile]: https://dev.to/harish795
 [Visual Studio Code]: https://code.visualstudio.com/ 
 
