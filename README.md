@@ -12,18 +12,16 @@ I like to develop software and build website as a hobby. I never followed my sch
 - ⚡ Fun fact: I love to play outdoor games
 
 <br />
+<img align="left" alt="harish795r's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harish795r&show_icons=true&theme=algolia"> 
 
-<img align="right" alt="harish795r's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=harish795r&show_icons=true&hide_border=true&theme=algolia"> 
-
-<br>
 
 ### Connect With Me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][Stack Overflow Profile]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][Git Hub Profile]
 [<img align="left"  width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][harish795's DEV Profile]
-<img align="left width="22" src="https://img.icons8.com/material-rounded/50/000000/discord-new-logo.png"/>Discord ID - harish795r#0072
-<img align="left"  width="22px" src="https://wheretoinvest.money/wp-content/uploads/2017/12/discord-logo-1024x1024.png" />Discord ID - harish795#0072
+<img align="left" width="24px" src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/>
+Discord ID - harish795r#0072
 <br>
 
 [Stack Overflow Profile]: https://stackoverflow.com/users/14588234/harish795
