@@ -1,17 +1,4 @@
-### Hi there, I'm Harish 👋
-
-## I'm a Student/Programmer
-
-<img align=center src="Untitled (Copy).png">
-
-I like to develop software and build website as a hobby. I never followed my school education for developing software but, learned everything i know by watching Youtube tutorials and just lots of searchings.
-
-- 🔭 I am currently working on a Automation Project Of Joining My Classes
-- 🌱 I’m currently learning about making Python Modern GUIs 
-- 🥅 2021 Goals: Learn C/C++ , Android Development
-- ⚡ Fun fact: I love to play outdoor games
-
-<br />
+<img align=center src="banner_w.png">
 
 ### Connect With Me:
 
