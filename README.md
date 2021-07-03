@@ -1,4 +1,4 @@
-<img align=center src="banner_w.png">
+<img align=center src="banner_r.png">
 
 ### Connect With Me:
 
