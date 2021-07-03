@@ -2,7 +2,7 @@
 
 ## I'm a Student/Programmer
 
-<img align=center src="banner.png">
+<img align=center src="Untitled (Copy).png">
 
 I like to develop software and build website as a hobby. I never followed my school education for developing software but, learned everything i know by watching Youtube tutorials and just lots of searchings.
 
