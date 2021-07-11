@@ -12,11 +12,6 @@ Discord - harish795r#0072
 <img align="left" alt="harish795r's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harish795r&show_icons=true&theme=algolia"> 
 
 
-[Stack Overflow Profile]: https://stackoverflow.com/users/14588234/harish795
-[Git Hub Profile]: https://github.com/harish795r
-[harish795's DEV Profile]: https://dev.to/harish795
-[Visual Studio Code]: https://code.visualstudio.com/ 
-
 <br />
 
 
